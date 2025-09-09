@@ -1,0 +1,13 @@
+C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\win-arm64\WinPlusH-dotNet.exe
+C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\win-arm64\WinPlusH-dotNet.deps.json
+C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\win-arm64\WinPlusH-dotNet.runtimeconfig.json
+C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\win-arm64\WinPlusH-dotNet.dll
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.csproj.AssemblyReference.cache
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.AssemblyInfoInputs.cache
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.AssemblyInfo.cs
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.csproj.CoreCompileInputs.cache
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.dll
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\refint\WinPlusH-dotNet.dll
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\WinPlusH-dotNet.genruntimeconfig.cache
+C:\Projects\WinPlusH-dotNet\obj\Release\net6.0\win-arm64\ref\WinPlusH-dotNet.dll
