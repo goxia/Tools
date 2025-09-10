@@ -1,0 +1,1 @@
+C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\win-arm64\publish-fdd\WinPlusH-dotNet.exe
