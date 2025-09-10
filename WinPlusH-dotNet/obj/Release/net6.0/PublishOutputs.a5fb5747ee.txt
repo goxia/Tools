@@ -1,4 +1,0 @@
-C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\publish\WinPlusH-dotNet.exe
-C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\publish\WinPlusH-dotNet.dll
-C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\publish\WinPlusH-dotNet.deps.json
-C:\Projects\WinPlusH-dotNet\bin\Release\net6.0\publish\WinPlusH-dotNet.runtimeconfig.json
